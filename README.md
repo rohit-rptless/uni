@@ -6,6 +6,7 @@ A simple wrapper to interact with various Large Language Models (LLMs) like Open
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Running tests
 
